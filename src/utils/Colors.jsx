@@ -1,0 +1,18 @@
+export const Colors = {
+  Black: '#000',
+  White: '#fff',
+  Ash: '#141824',
+  Grey: '#838FA0',
+  Blue: '#0A2463',
+  Main: '#BC4A84',
+  Purple: '#A75FD3',
+  Success: '#198754',
+  Non: 'transparent',
+  DarkBlue: '#122261',
+  LightGrey: '#A4A8B3',
+  LightGreen: '#79AF44',
+  OTPContainer: '#ECF0F9',
+  placeholderTextColor: '#ADB3BF',
+  OtherBox: '#D5DAEF',
+  YourBox: '#A75FD3',
+};
